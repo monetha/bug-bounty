@@ -3,7 +3,7 @@
 
 The Monetha Bugs Bounty Program provides bounties for vulnerability bugs. Our development and security teams has made every effort to eliminate all bugs in our systems, however there's always the chance that we might have missed some potential vulnerabilities. If you discover it, we appreciate your cooperation with us. For vulnerability bugs, we offer rewards. Before you get started please see our Service Level Agreements & Eligibility sections for more details.
 
-Do not submit any vulnerability to [github Issues](https://github.com/monetha/bug-bounty/issues). For bounty program all issues must be submitted to [Submit a Vulnerability](https://docs.google.com/forms/d/e/1FAIpQLSepEDPWlHn2CVFHHaOlrE_YSnQo7Uj-mV051SmrXZ0t85SYBg/viewform)
+**Do not submit any vulnerability to** [github Issues](https://github.com/monetha/bug-bounty/issues). For bounty program all issues must be submitted to [Submit a Vulnerability](https://docs.google.com/forms/d/e/1FAIpQLSepEDPWlHn2CVFHHaOlrE_YSnQo7Uj-mV051SmrXZ0t85SYBg/viewform)
 
 ### Service Level Agreements
 Monetha appreciates you taking the time to participate in our bug bounty program. We invest time and energy into our program to make it the best it can be. There are some things you can expect from us when participating in our program:
