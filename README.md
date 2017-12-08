@@ -34,8 +34,8 @@ The following requirements must be adhered to in order to participate in Monetha
 ### Scope
 Any design or implementation issue that substantially affects the confidentiality or integrity of user data is likely to be within the scope of the program.
 
-* Smart contracts: TrustReputationSmartContracts
-* Payment integrations: magento, woocommerce, buynowbutton
+* Smart contracts: [TrustReputationSmartContracts](https://github.com/monetha/TrustReputationSmartContracts)
+* Payment integrations: [magento](https://github.com/monetha/magento), [woocommerce](https://github.com/monetha/woocommerce), [buynowbutton](https://github.com/monetha/buynowbutton)
 
 ### Out-Of-Scope
 * Phishing Monetha workers, users, clients and anyone who is related with Monetha.
