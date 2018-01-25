@@ -41,4 +41,5 @@ Any design or implementation issue that substantially affects the confidentialit
 * Phishing Monetha workers, users, clients and anyone who is related with Monetha.
 * Monetha ico web page: https://ico.monetha.io
 * Monetha web page: https://www.monetha.io
+* Monetha demo shop: https://shop-sandbox.monetha.io (except payment integration).
 * [Known issues](https://github.com/monetha/bug-bounty/issues)
