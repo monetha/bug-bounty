@@ -42,4 +42,6 @@ Any design or implementation issue that substantially affects the confidentialit
 * Monetha ico web page: https://ico.monetha.io
 * Monetha web page: https://www.monetha.io
 * Monetha demo shop: https://shop-sandbox.monetha.io (except payment integration).
+* Monetha blog: https://blog.monetha.io
+* Or any other similar static pages
 * [Known issues](https://github.com/monetha/bug-bounty/issues)
