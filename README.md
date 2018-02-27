@@ -39,9 +39,9 @@ Any design or implementation issue that substantially affects the confidentialit
 
 ### Out-Of-Scope
 * Phishing Monetha workers, users, clients and anyone who is related with Monetha.
-* Monetha ico web page: https://ico.monetha.io
-* Monetha web page: https://www.monetha.io
-* Monetha demo shop: https://shop-sandbox.monetha.io (except payment integration).
-* Monetha blog: https://blog.monetha.io
+* Monetha ico web page and all subpages: https://ico.monetha.io
+* Monetha web page and all subpages: https://www.monetha.io
+* Monetha demo shop and all subpages: https://shop-sandbox.monetha.io (except payment integration).
+* Monetha blog and all subpages: https://blog.monetha.io
 * Or any other similar static pages
 * [Known issues](https://github.com/monetha/bug-bounty/issues)
