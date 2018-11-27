@@ -36,10 +36,12 @@ Any design or implementation issue that substantially affects the confidentialit
 
 * Smart contracts: [TrustReputationSmartContracts](https://github.com/monetha/TrustReputationSmartContracts)
 * Payment integrations: [magento](https://github.com/monetha/magento), [woocommerce](https://github.com/monetha/woocommerce), [buynowbutton](https://github.com/monetha/buynowbutton)
+* Monetha [Android](https://play.google.com/store/apps/details?id=com.monetha.app) and [iOS](https://itunes.apple.com/app/id1351311808) app
+* Monetha [web](https://www.monetha.io/user/login) application 
+* Monetha [API paynment gateway](https://api.monetha.io/mth-gateway/v1/docs) and [mobile api](https://api.monetha.io/mth/v1/docs)
 
 ### Out-Of-Scope
 * Phishing Monetha workers, users, clients and anyone who is related with Monetha.
-* Monetha ico web page and all subpages: https://ico.monetha.io
 * Monetha web page and all subpages: https://www.monetha.io
 * Monetha demo shop and all subpages: https://shop-sandbox.monetha.io (except payment integration).
 * Monetha blog and all subpages: https://blog.monetha.io
