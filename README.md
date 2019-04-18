@@ -16,11 +16,11 @@ We appreciate you taking the time to participate in Monetha's Bug Bounty Program
 * Notify you within five business days once an issue has been resolved.
 * The value of rewards paid out will vary depending on Severity. The severity is calculated according to the OWASP risk rating model based on Impact and Likelihood: 
 * Please allow up to one week from the time the report was approved and validated to receive your bounty payment. Reward sizes are guided by the rules below and payable in ETH.
-    - Critical: $5,000 - $10,000
-    - High: $1,000 - $5,000
-    - Medium: $500 - $1000
-    - Low: $100 - $500
-    - Note: up to $100
+    - Critical: $500 - $1000
+    - High: $100 - $500
+    - Medium: $50 - $100
+    - Low: $10 - $50
+    - Note: up to $10
     
 ### Eligibility
 The following requirements must be adhered to in order to participate in Monetha's Bug Bounty Program, and for any report to qualify. Not following these requirements can result in anything from your report being rejected to being banned from the program.
